@@ -1,0 +1,10 @@
+C:\Users\Eusebiu Duktech\source\repos\Security01\Security01\bin\Debug\Security01.exe.config
+C:\Users\Eusebiu Duktech\source\repos\Security01\Security01\bin\Debug\Security01.exe
+C:\Users\Eusebiu Duktech\source\repos\Security01\Security01\bin\Debug\Security01.pdb
+C:\Users\Eusebiu Duktech\source\repos\Security01\Security01\obj\Debug\Security01.csprojAssemblyReference.cache
+C:\Users\Eusebiu Duktech\source\repos\Security01\Security01\obj\Debug\Security01.Form1.resources
+C:\Users\Eusebiu Duktech\source\repos\Security01\Security01\obj\Debug\Security01.Properties.Resources.resources
+C:\Users\Eusebiu Duktech\source\repos\Security01\Security01\obj\Debug\Security01.csproj.GenerateResource.cache
+C:\Users\Eusebiu Duktech\source\repos\Security01\Security01\obj\Debug\Security01.csproj.CoreCompileInputs.cache
+C:\Users\Eusebiu Duktech\source\repos\Security01\Security01\obj\Debug\Security01.exe
+C:\Users\Eusebiu Duktech\source\repos\Security01\Security01\obj\Debug\Security01.pdb
