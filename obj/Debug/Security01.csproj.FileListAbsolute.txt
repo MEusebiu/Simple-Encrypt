@@ -8,3 +8,12 @@ C:\Users\Eusebiu Duktech\source\repos\Security01\Security01\obj\Debug\Security01
 C:\Users\Eusebiu Duktech\source\repos\Security01\Security01\obj\Debug\Security01.csproj.CoreCompileInputs.cache
 C:\Users\Eusebiu Duktech\source\repos\Security01\Security01\obj\Debug\Security01.exe
 C:\Users\Eusebiu Duktech\source\repos\Security01\Security01\obj\Debug\Security01.pdb
+E:\Eusebiu\Master\Securitate\bin\Debug\Security01.exe.config
+E:\Eusebiu\Master\Securitate\bin\Debug\Security01.exe
+E:\Eusebiu\Master\Securitate\bin\Debug\Security01.pdb
+E:\Eusebiu\Master\Securitate\obj\Debug\Security01.csprojResolveAssemblyReference.cache
+E:\Eusebiu\Master\Securitate\obj\Debug\Security01.Form1.resources
+E:\Eusebiu\Master\Securitate\obj\Debug\Security01.Properties.Resources.resources
+E:\Eusebiu\Master\Securitate\obj\Debug\Security01.csproj.GenerateResource.Cache
+E:\Eusebiu\Master\Securitate\obj\Debug\Security01.exe
+E:\Eusebiu\Master\Securitate\obj\Debug\Security01.pdb
